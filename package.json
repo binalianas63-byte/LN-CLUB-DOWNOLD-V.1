@@ -1,0 +1,1 @@
+{"name":"ln-club-firebase-multi-apk","version":"3.0.0","main":"index.js","scripts":{"start":"node index.js"},"engines":{"node":">=18"},"dependencies":{"express":"^4.21.2","firebase-admin":"^13.0.2","node-telegram-bot-api":"^0.66.0"}}
